@@ -79,4 +79,13 @@ Esses valores sustentam a cultura do time:
 - Lean: Maximizar valor agregado e minimizar desperdícios
 - Swarming: Perda de produtividade por mudança de contexto.
 - Refinement: DEtalhamento/esclarecimento de tarefas do Backlog;
-- aprendendo no trello
+
+## Papéis e responsabilidades
+PO:
+1. O dono do produto é um representante do cliente
+2. Responsável pele entendimento das necessidades e dores do cliente e do mercado e como passar essas informações para o time de desenvolvimento
+3. Responsável pelo contato com o stakeholders
+4. Busca maximização do valor do projeto, do ROI (retorno sobre o investimento)
+5. Possui autonomia para tomada de decisões.
+6. Escreve um visão do produto
+7. Desenvolve o backlog
