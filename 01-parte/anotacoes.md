@@ -65,3 +65,7 @@ Esses valores sustentam a cultura do time:
 3. **Abertura** – Ser honesto sobre progresso, dificuldades e ideias.
 4. **Respeito** – Valorizar cada pessoa do time.
 5. **Coragem** – Tomar decisões difíceis e agir diante de incertezas.
+
+## Indentificando as necessidades do Cliente
+- Fazer uma lista de requisitos com o cliente, fazer as perguntas certas;
+
