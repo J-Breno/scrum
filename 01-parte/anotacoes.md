@@ -79,3 +79,4 @@ Esses valores sustentam a cultura do time:
 - Lean: Maximizar valor agregado e minimizar desperdícios
 - Swarming: Perda de produtividade por mudança de contexto.
 - Refinement: DEtalhamento/esclarecimento de tarefas do Backlog;
+- aprendendo no trello
