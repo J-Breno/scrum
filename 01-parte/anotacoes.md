@@ -69,3 +69,13 @@ Esses valores sustentam a cultura do time:
 ## Indentificando as necessidades do Cliente
 - Fazer uma lista de requisitos com o cliente, fazer as perguntas certas;
 
+## Visão Geral
+
+- o time de desenvolvimento não necessáriamente é um time de programadores, é um time de qualquer outra coisa também.
+- SCRUM master e o product owner não são os lideres do projeto, cada um tem sua função;
+- DoD: Ter claro a definição de "feito"
+- Sprint Goal: Objetivo da Sprint
+- Kaizen: Melhorias no processo e produto;
+- Lean: Maximizar valor agregado e minimizar desperdícios
+- Swarming: Perda de produtividade por mudança de contexto.
+- Refinement: DEtalhamento/esclarecimento de tarefas do Backlog;
