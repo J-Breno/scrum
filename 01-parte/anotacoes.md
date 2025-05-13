@@ -109,3 +109,9 @@ DevTEAM:
 8. Refinam os itens definidos pelo PO em uma lista mais simples e com uma linguagem mais técnica, e chamamos isso de Refinement
 9. Realizam um plano de como realizar as tarefas
 10. Alinham com o PO o DoD, os critérios de qualidade e a definição de pronto das tarefas.
+
+Scrum Master:
+1. Figura do treinador
+2. Apresenta as ferramentas para que o time atue nas melhores condições possíveis com o máximo de produtividade
+3. Fgura sábia que guia os times dentro Framework Scrum, disponível para ajudar, entender os impedimentos e como podem ser resolvidos.
+4. Garante a horizontalidade do time.
