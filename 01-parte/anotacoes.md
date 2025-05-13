@@ -105,3 +105,7 @@ DevTEAM:
 3. Auto gerenciáveis e auto organizáveis
 4. Alto grau de liberdade de trabalho.
 5. Todos os itens do backlog do produto são responsabilidade de todos os membros do time de desenvolvimento, não existe subdivisões.
+7. Responsáveis pelo incremento do backlog
+8. Refinam os itens definidos pelo PO em uma lista mais simples e com uma linguagem mais técnica, e chamamos isso de Refinement
+9. Realizam um plano de como realizar as tarefas
+10. Alinham com o PO o DoD, os critérios de qualidade e a definição de pronto das tarefas.
