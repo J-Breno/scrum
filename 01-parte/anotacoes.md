@@ -66,8 +66,12 @@ Esses valores sustentam a cultura do time:
 4. **Respeito** – Valorizar cada pessoa do time.
 5. **Coragem** – Tomar decisões difíceis e agir diante de incertezas.
 
+---
+
 ## Indentificando as necessidades do Cliente
 - Fazer uma lista de requisitos com o cliente, fazer as perguntas certas;
+
+---
 
 ## Visão Geral
 
@@ -80,6 +84,8 @@ Esses valores sustentam a cultura do time:
 - Swarming: Perda de produtividade por mudança de contexto.
 - Refinement: DEtalhamento/esclarecimento de tarefas do Backlog;
 
+---
+
 ## Papéis e responsabilidades
 PO:
 1. O dono do produto é um representante do cliente
@@ -89,3 +95,7 @@ PO:
 5. Possui autonomia para tomada de decisões.
 6. Escreve um visão do produto
 7. Desenvolve o backlog
+8. Entende o momento ideal do mercado para o lançamento de cada incremento do backlog
+9. Pode vetar o que foi pelo time de desenvolvimento de acordo com objetivo negociado
+10. Negociações constantes com o time de desenvolvimento.
+
