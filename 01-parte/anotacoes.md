@@ -99,3 +99,9 @@ PO:
 9. Pode vetar o que foi pelo time de desenvolvimento de acordo com objetivo negociado
 10. Negociações constantes com o time de desenvolvimento.
 
+DevTEAM:
+1. Conhecimento de ferramentas robustas
+2. Maturidade de trabalho e comprometimento de time
+3. Auto gerenciáveis e auto organizáveis
+4. Alto grau de liberdade de trabalho.
+5. Todos os itens do backlog do produto são responsabilidade de todos os membros do time de desenvolvimento, não existe subdivisões.
